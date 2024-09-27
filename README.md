@@ -1,5 +1,5 @@
 # Deep-Imperative-Mutations-have-Less-Impact
-Data for "Deep Imperative Mutations have Less Impact", W. B. Langdon and David Clark, Automated Software Engineering journal.
+"Deep Imperative Mutations have Less Impact", W. B. Langdon and David Clark, Automated Software Engineering journal.
 
 Fig 2. 
 FlameGraph of Linux perf profile of gem5 simulating our RNAfold fragment.
